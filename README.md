@@ -33,6 +33,6 @@ Occurrences in landing are more likely to happen even though it's not the most f
 
 
 # Questions that still need answer and other topics to study.
- Why was there a rise in the number of occurrences in private flights between 2019 and 2020;
- Further investigaation on Approach occurrences, which is the second most fatal phase.
+ - Why was there a rise in the number of occurrences in private flights between 2019 and 2020;
+ - Further investigation on Approach occurrences, which is the second most fatal phase.
 
