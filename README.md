@@ -1,4 +1,4 @@
-# airplane_accidents_study
+# Airplane Occurrences
 ## Objectives:
  To compare occurrences that happen on the Landing and En Route Phases, their fatality rates and 
 
